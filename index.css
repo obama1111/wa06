@@ -1,0 +1,12 @@
+#save-button, #signout-button{
+    margin-top: 20px;
+    background-color: crimson;
+    color: black;
+    font-weight: bold;
+}
+
+#signout-button {
+    background-color: crimson;
+    color: black;
+    font-weight: bold;
+}
